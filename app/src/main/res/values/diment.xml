@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mediumMargin">16dp</dimen>
+    <dimen name="largeRadius">52dp</dimen>
+    <dimen name="largeMargin">32dp</dimen>
+    <dimen name="size">28sp</dimen>
+    <dimen name="smallMarg">8dp</dimen>
+    <dimen name="mediumrad">25dp</dimen>
+    <dimen name="contactFontSize">12sp</dimen>
+    <dimen name="vale">5dp</dimen>
+    <dimen name="messageSize">10sp</dimen>
+    <dimen name="titleNumberofPhotos">20sp</dimen>
+</resources>

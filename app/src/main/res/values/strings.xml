@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UiOrofile</string>
+    <string name="Samaa"> Samaa_Al_Hadad</string>
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+    <string name="More">More</string>
+    <string name="Baghdad_Iraq">Baghdad,Iraq</string>
+    <string name="Timeline">Timeline</string>
+    <string name="about">About</string>
+    <string name="Friends">Friends</string>
+    <string name="photo">Photo</string>
+    <string name="more">More</string>
+    <string name="write_something_to_sama">Write Something to Samaa</string>
+    <string name="photos">Photos</string>
+    <string name="_780">780</string>
+    <string name="friends">Friends</string>
+    <string name="_530">530</string>
+</resources>
